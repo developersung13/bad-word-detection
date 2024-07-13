@@ -1,4 +1,4 @@
-# Bad Word Detection
+# Bad Word Detection &middot; [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/developersung13/bad-word-detection/blob/main/LICENSE)
 
 A Flask server to detect Korean bad words in text using pre-trained SVM models and vectorizers.
 
