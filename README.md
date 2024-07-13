@@ -10,6 +10,7 @@ Ensure you have the following installed:
 - Python 3.6+
 - Flask
 - joblib
+- scikit-learn
 
 ### Installation
 
@@ -27,7 +28,7 @@ Ensure you have the following installed:
 
 3. Install dependencies:
     ```bash
-    pip install Flask joblib
+    pip install Flask joblib scikit-learn
     ```
 
 ### Running the Server
