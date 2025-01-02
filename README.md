@@ -42,3 +42,10 @@ python app.py
 
 <img width="1138" alt="Screenshot 2024-07-13 at 8 24 26 PM" src="https://github.com/user-attachments/assets/42f183ed-cb04-478e-bac4-08cc60976653">
 <img width="1141" alt="Screenshot 2024-07-13 at 8 24 45 PM" src="https://github.com/user-attachments/assets/5b82cbc5-f374-45f1-a7cc-af8b909de091">
+
+### Dataset
+
+- Dataset Download([Dataset repository](https://github.com/cha-suyeon/Object-Dectection-In-Aerial-Images))
+- Data Info
+  - type: text
+  - Size: 502 KB
